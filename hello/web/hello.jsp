@@ -8,7 +8,7 @@
   <table border="0" cellpadding="10">
     <tr>
       <td align=center>
-        <img src="images/ngdc.png">
+        <img src="images/hello.png">
       </td>
       <td>
          <h1>Sample Application JSP Page</h1>
